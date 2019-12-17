@@ -13,6 +13,10 @@ In this lesson, we'll review all the guidelines and specifications for the final
 
 ### Final Project Summary
 
+Blog Post: https://cpedrasa.github.io/racial_bias_in_machine_learning_algorithm
+Jupyter Notebook:https://github.com/cpedrasa/dsc-mod-4-project-online-ds-sp-000/blob/master/mod_4_starter_notebook.ipynb
+Executive Summary:https://github.com/cpedrasa/dsc-mod-4-project-online-ds-sp-000
+
 Another module down--you're absolutely crushing it! For this project, you'll get to flex your **_Time-Series_** muscles!
 
 <img src='https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-4-project/master/images/timegif.gif'>
